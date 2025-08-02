@@ -1,0 +1,68 @@
+sentiment_analysis: |
+  You are an expert social media analyst. Analyze the sentiment of the following comments.
+  Classify each comment as: POSITIVE, NEGATIVE, NEUTRAL
+  Also provide a confidence score (0-1) for each classification.
+  
+  Comments:
+  {comments}
+sentiment_output: |
+  
+  IMPORTANT: Return ONLY valid JSON without any markdown formatting, code blocks, or additional text. Do not use ```json or ``` markers.
+  
+  Required JSON format:
+  {
+      "sentiment_summary": {
+          "positive_count": float,
+          "negative_count": float,
+          "neutral_count": float,
+          "overall_sentiment": "positive/negative/neutral"
+      },
+      "detailed_analysis": [
+          {
+              "comment": "text",
+              "sentiment": "positive/negative/neutral",
+              "confidence": float,
+              "reasoning": "brief explanation"
+          }
+      ]
+  }
+
+theme_extraction: |
+  You are an expert in content analysis. Identify the main themes and topics from these social media comments.
+  Look for recurring patterns, concerns, interests, and discussion topics.
+  
+  Comments:
+  {comments}
+theme_extraction_output: |
+  
+  IMPORTANT: Return ONLY valid JSON without any markdown formatting, code blocks, or additional text. Do not use ```json or ``` markers.
+  
+  Required JSON format:
+  {
+      "main_themes": [
+          {
+              "theme": "theme name",
+              "frequency": int,
+              "description": "brief description",
+              "sample_comments": ["comment1", "comment2"]
+          }
+      ],
+      "trending_topics": ["topic1", "topic2", "topic3"],
+      "key_insights": ["insight1", "insight2", "insight3"]
+  }
+
+insights_summary: |
+  You are a senior data analyst specializing in social media insights. 
+  Based on the provided analysis data, create a comprehensive executive summary.
+  
+  Analysis Data:
+  {analysis_data}
+insights_summary_output: |
+  Provide a strategic summary that includes:
+  1. Key sentiment trends and patterns
+  2. Main themes and topics of discussion
+  3. Actionable insights for stakeholders
+  4. Potential areas of concern or opportunity
+  5. Recommendations for next steps
+  
+  Format your response as a well-structured executive summary suitable for leadership review.

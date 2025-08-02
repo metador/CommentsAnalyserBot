@@ -1,0 +1,369 @@
+{
+  "analysis_metadata": {
+    "total_comments_analyzed": 1000,
+    "analysis_date": "2025-08-02T17:55:34.663809",
+    "batch_size": 50,
+    "model_used": "gpt-4o-mini"
+  },
+  "sentiment_analysis": {
+    "overall_sentiment": "positive",
+    "sentiment_distribution": {
+      "positive": 650.0,
+      "negative": 33.0,
+      "neutral": 301.0
+    },
+    "sentiment_percentages": {
+      "positive": 66.06,
+      "negative": 3.35,
+      "neutral": 30.59
+    }
+  },
+  "theme_analysis": {
+    "top_themes": [
+      {
+        "theme": "Product Recommendations",
+        "frequency": 51
+      },
+      {
+        "theme": "Product Love",
+        "frequency": 50
+      },
+      {
+        "theme": "Product Enthusiasm",
+        "frequency": 47
+      },
+      {
+        "theme": "Scent Appreciation",
+        "frequency": 35
+      },
+      {
+        "theme": "Product Praise",
+        "frequency": 30
+      },
+      {
+        "theme": "Social Interaction",
+        "frequency": 28
+      },
+      {
+        "theme": "Product Availability",
+        "frequency": 27
+      },
+      {
+        "theme": "Scent Preferences",
+        "frequency": 24
+      },
+      {
+        "theme": "Product Availability and Pricing",
+        "frequency": 20
+      },
+      {
+        "theme": "Product Discovery",
+        "frequency": 20
+      }
+    ],
+    "trending_topics": [
+      {
+        "topic": "Tree Hut products",
+        "mentions": 5
+      },
+      {
+        "topic": "Scent preferences",
+        "mentions": 3
+      },
+      {
+        "topic": "Scent Preferences",
+        "mentions": 3
+      },
+      {
+        "topic": "Skincare routines",
+        "mentions": 2
+      },
+      {
+        "topic": "Product availability",
+        "mentions": 2
+      },
+      {
+        "topic": "Beauty Products",
+        "mentions": 2
+      },
+      {
+        "topic": "Product Availability",
+        "mentions": 2
+      },
+      {
+        "topic": "scent preferences",
+        "mentions": 1
+      },
+      {
+        "topic": "product availability",
+        "mentions": 1
+      },
+      {
+        "topic": "customer loyalty",
+        "mentions": 1
+      },
+      {
+        "topic": "Product effectiveness",
+        "mentions": 1
+      },
+      {
+        "topic": "Brand loyalty",
+        "mentions": 1
+      },
+      {
+        "topic": "Fragrance mists",
+        "mentions": 1
+      },
+      {
+        "topic": "Body scrubs",
+        "mentions": 1
+      },
+      {
+        "topic": "Self-Care Routines",
+        "mentions": 1
+      }
+    ],
+    "unique_insights": [
+      "There is a strong sense of community and sharing among users.",
+      "There is a significant focus on the scents of the products, with mixed reviews indicating a need for improvement.",
+      "Scent reactions are varied, with both positive and negative feedback.",
+      "There is a strong community appreciation for effective and pleasant-smelling products.",
+      "Users are highly engaged with scent-related discussions.",
+      "Users are highly engaged and share personal experiences and recommendations.",
+      "There is a strong emotional connection to the products, as seen in the frequent use of love emojis.",
+      "Community engagement is evident, with users sharing experiences and recommendations.",
+      "Users are highly engaged and express strong preferences for scents.",
+      "Users are actively seeking to engage with the brand for collaborations and marketing opportunities.",
+      "There is a strong community around product recommendations and brand loyalty.",
+      "Negative feedback exists but is less frequent compared to positive comments.",
+      "Travel, especially to beach locations, is a popular topic.",
+      "Seasonal events and activities are popular discussion points.",
+      "Consumers express a desire for new product offerings and improvements.",
+      "Pricing and availability at Walmart are significant concerns for consumers.",
+      "There is a notable demand for product availability in different regions.",
+      "There is a strong sense of community and interaction among users.",
+      "There is a strong enthusiasm for self-care products, particularly scrubs.",
+      "Users frequently engage with each other through tagging and emojis.",
+      "Users are highly engaged with product discovery and sharing their experiences.",
+      "Availability at popular retailers like Target is a significant concern for users.",
+      "Emotional expressions through emojis are prevalent, indicating high engagement.",
+      "Users enjoy sharing their personal care routines and experiences.",
+      "Availability in popular retail stores influences purchasing decisions.",
+      "Users are highly engaged with Tree Hut products and express strong brand loyalty.",
+      "Fashion-related comments indicate a trend towards event-specific attire.",
+      "The aesthetic and sensory appeal of the products is a significant draw for potential customers.",
+      "The community aspect is strong, with users frequently interacting and supporting each other.",
+      "There is a strong brand loyalty towards Treehut products.",
+      "Visual appeal and scent are significant factors in product attraction.",
+      "There is a strong community around body care products, particularly Tree Hut.",
+      "There is a strong emotional connection to specific scents and products.",
+      "There is a strong community interest in product scents and recommendations.",
+      "The product has a strong fan base with many expressing love for it.",
+      "Concerns about product availability and pricing are prevalent among users.",
+      "Fragrance plays a significant role in product preference and user satisfaction.",
+      "There is a significant focus on spring break plans, particularly to warm locations.",
+      "There is a strong community interest in skincare and body products, particularly Tree Hut.",
+      "Users are eager to share personal experiences and recommendations, fostering a sense of community.",
+      "Users actively seek specific scents and product variants, indicating a strong brand loyalty.",
+      "Users are highly engaged and excited about new product offerings.",
+      "Travel and family activities are popular discussion points.",
+      "Users are highly engaged with beauty and fragrance products.",
+      "Questions about product usage and effectiveness indicate a desire for more information and guidance.",
+      "Users are concerned about rising prices and product availability.",
+      "Concerns about product use suggest a need for clearer usage instructions and product information.",
+      "Frustration over product availability indicates high demand for certain items.",
+      "Users are eager to share their personal experiences and recommendations for specific scents and products.",
+      "Tree Hut products are highly favored for their effectiveness and pleasant scents.",
+      "Users are highly engaged with Tree Hut, indicating strong brand loyalty.",
+      "Users are excited about the brand's expansion into new markets, particularly Australia.",
+      "Pricing concerns are prevalent, with some users expressing that they may not purchase if prices increase.",
+      "There is a strong sense of community and support among users.",
+      "Tips and personal experiences are shared frequently, indicating a collaborative consumer culture.",
+      "Scent variety is a significant factor in user satisfaction.",
+      "Users often share personal experiences and emotional reactions to products.",
+      "There is a strong interest in skincare and beauty products, particularly scrubs and lotions.",
+      "Users frequently discuss the scents of products, indicating fragrance is a key selling point.",
+      "There is a strong focus on self-care and beauty among users."
+    ]
+  },
+  "metrics_report": {
+    "report_metadata": {
+      "generated_at": "2025-08-02T17:55:34.720638",
+      "analysis_period": {
+        "start": "2025-03-01T00:04:05.094000+00:00",
+        "end": "2025-03-10T20:33:49.575000+00:00"
+      },
+      "total_comments": 1000
+    },
+    "engagement_metrics": {
+      "temporal_analysis": {
+        "temporal_overview": {
+          "total_comments": 1000,
+          "date_range": {
+            "start": "2025-03-01T00:04:05.094000+00:00",
+            "end": "2025-03-10T20:33:49.575000+00:00"
+          },
+          "total_days": 10
+        },
+        "volume_trends": {
+          "daily_avg": 100.0,
+          "peak_day": {
+            "date": "2025-03-10",
+            "count": 261
+          },
+          "lowest_day": {
+            "date": "2025-03-09",
+            "count": 38
+          }
+        },
+        "patterns": {
+          "busiest_day_of_week": "Monday",
+          "busiest_hour": 19
+        }
+      },
+      "weekly_trends": [
+        {
+          "week": "2025-02-24/2025-03-02",
+          "comment_count": 154
+        },
+        {
+          "week": "2025-03-03/2025-03-09",
+          "comment_count": 585
+        },
+        {
+          "week": "2025-03-10/2025-03-16",
+          "comment_count": 261
+        }
+      ],
+      "volume_statistics": {
+        "daily_average": 100.0,
+        "peak_activity": {
+          "date": "2025-03-10",
+          "count": 261
+        },
+        "engagement_patterns": {
+          "busiest_day_of_week": "Monday",
+          "busiest_hour": 19
+        }
+      }
+    },
+    "content_insights": {
+      "sentiment_evolution": {
+        "overall_sentiment": "positive",
+        "sentiment_distribution": {
+          "positive": 650.0,
+          "negative": 33.0,
+          "neutral": 301.0
+        },
+        "sentiment_percentages": {
+          "positive": 66.06,
+          "negative": 3.35,
+          "neutral": 30.59
+        }
+      },
+      "trending_topics": [
+        {
+          "topic": "Tree Hut products",
+          "mentions": 5
+        },
+        {
+          "topic": "Scent preferences",
+          "mentions": 3
+        },
+        {
+          "topic": "Scent Preferences",
+          "mentions": 3
+        },
+        {
+          "topic": "Skincare routines",
+          "mentions": 2
+        },
+        {
+          "topic": "Product availability",
+          "mentions": 2
+        },
+        {
+          "topic": "Beauty Products",
+          "mentions": 2
+        },
+        {
+          "topic": "Product Availability",
+          "mentions": 2
+        },
+        {
+          "topic": "scent preferences",
+          "mentions": 1
+        },
+        {
+          "topic": "product availability",
+          "mentions": 1
+        },
+        {
+          "topic": "customer loyalty",
+          "mentions": 1
+        },
+        {
+          "topic": "Product effectiveness",
+          "mentions": 1
+        },
+        {
+          "topic": "Brand loyalty",
+          "mentions": 1
+        },
+        {
+          "topic": "Fragrance mists",
+          "mentions": 1
+        },
+        {
+          "topic": "Body scrubs",
+          "mentions": 1
+        },
+        {
+          "topic": "Self-Care Routines",
+          "mentions": 1
+        }
+      ],
+      "topic_trends_over_time": [
+        {
+          "period": "2025-02-24/2025-03-02",
+          "topics": {
+            "quality": 10,
+            "price": 2,
+            "service": 1,
+            "delivery": 0,
+            "product": 14
+          },
+          "total_comments": 154
+        },
+        {
+          "period": "2025-03-03/2025-03-09",
+          "topics": {
+            "quality": 48,
+            "price": 4,
+            "service": 4,
+            "delivery": 0,
+            "product": 99
+          },
+          "total_comments": 585
+        },
+        {
+          "period": "2025-03-10/2025-03-16",
+          "topics": {
+            "quality": 6,
+            "price": 4,
+            "service": 0,
+            "delivery": 0,
+            "product": 18
+          },
+          "total_comments": 261
+        }
+      ]
+    },
+    "key_metrics": {
+      "sentiment_score": 81.36,
+      "engagement_score": 75.0,
+      "topic_diversity": 10
+    }
+  },
+  "executive_summary": "**Executive Summary: Social Media Insights Analysis**\n\n**Date of Analysis:** August 2, 2025  \n**Total Comments Analyzed:** 1,000  \n**Analysis Period:** March 1, 2025 - March 10, 2025  \n\n---\n\n**1. Key Sentiment Trends and Patterns**  \nThe sentiment analysis reveals an overwhelmingly positive response from users, with 66.06% of comments classified as positive. Negative sentiments are minimal at 3.35%, while neutral comments account for 30.59%. This positive sentiment indicates strong brand affinity and satisfaction among users, particularly towards Tree Hut products. The overall sentiment score stands at 81.36, reflecting a favorable perception of the brand.\n\n**2. Main Themes and Topics of Discussion**  \nThe analysis identified several prominent themes within the comments:\n- **Product Recommendations (51 mentions)**\n- **Product Love (50 mentions)**\n- **Product Enthusiasm (47 mentions)**\n- **Scent Appreciation (35 mentions)**\n- **Product Praise (30 mentions)**\n\nTrending topics include discussions around \"Tree Hut products,\" \"scent preferences,\" and \"skincare routines.\" Users frequently engage in sharing personal experiences and recommendations, fostering a sense of community and collaboration.\n\n**3. Actionable Insights for Stakeholders**  \n- **Community Engagement:** There is a strong sense of community among users, with frequent interactions and sharing of personal care routines. Stakeholders should leverage this engagement to enhance brand loyalty and customer retention.\n- **Scent Focus:** The emphasis on scents indicates a potential area for product development. Users express varied preferences, suggesting opportunities for expanding scent offerings or improving existing formulations.\n- **Product Availability:** Concerns regarding product availability, particularly in retail locations like Walmart and Target, highlight the need for improved distribution strategies.\n\n**4. Potential Areas of Concern or Opportunity**  \n- **Negative Feedback:** While negative comments are infrequent, they do exist and often relate to product availability and pricing. Addressing these concerns proactively can mitigate potential dissatisfaction.\n- **Demand for New Offerings:** Users express a desire for new products and variants, indicating an opportunity for innovation and expansion in the product line.\n- **Pricing Sensitivity:** Some users have voiced concerns about rising prices, which could impact purchasing decisions. Monitoring pricing strategies will be crucial to maintaining customer loyalty.\n\n**5. Recommendations for Next Steps**  \n- **Enhance Community Engagement:** Develop initiatives that encourage user-generated content and testimonials, further strengthening community ties and brand loyalty.\n- **Expand Product Line:** Consider launching new scents or product variants based on user feedback to meet the diverse preferences expressed in discussions.\n- **Improve Distribution Channels:** Collaborate with retail partners to ensure product availability aligns with consumer demand, particularly in high-traffic locations.\n- **Monitor Sentiment Trends:** Continuously track sentiment and engagement metrics to identify shifts in consumer perception and adapt strategies accordingly.\n\nBy focusing on these insights and recommendations, stakeholders can capitalize on the positive sentiment and community engagement surrounding Tree Hut products, while addressing potential concerns to foster sustained growth and customer satisfaction."
+}
