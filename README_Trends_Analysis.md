@@ -70,16 +70,27 @@ For large datasets, processing all comments may take significant time. The limit
 
 ```
 CommentsAnalyserBot/
-├── analyze_trends.py               # Main trends analysis script for engagements.csv
-├── src/
-│   └── socialMediaInsightsBot.py   # Enhanced bot with temporal analysis
-├── documents/csv/
-│   └── engagements.csv              # Your comment data (timestamp, media_id, media_caption, comment_text)
-├── reports/                         # Generated visualizations
-│   ├── engagement_trends.png
-│   └── comment_wordcloud.png
-├── vectorstore/                     # Vector database for queries
-└── requirements.txt                 # Updated with visualization dependencies
+├── analyze_trends.py                      # Main trends analysis script for engagements.csv
+├── src/                                   # Core source code
+│   ├── socialMediaInsightsBot.py          # Enhanced bot with temporal analysis
+│   ├── utils.py                           # Utility functions and helpers
+│   ├── charts.py                          # Chart generation and visualization
+├── documents/                             # Data files
+│   ├── csv/
+│   │   └── engagements.csv                # Your comment data (timestamp, media_id, media_caption, comment_text)
+│   └── json/                              # JSON data files (optional)
+├── reports/                               # Generated visualizations
+├── tests/                                 # Test files
+├── notebooks/                             # Jupyter notebooks
+│   └── comments.ipynb                     # Interactive analysis notebook
+├── vectorstore/                           # Vector database for queries
+├── chatbot/                               # Chatbot interface components
+├── prompts/                               # LLM prompt templates
+├── sample_data/                           # Sample datasets for testing
+├── config/                                # Configuration files
+├── requirements.txt                       # Python dependencies
+├── README_Trends_Analysis.md              # This file - trends analysis documentation
+└── .gitignore                            # Git ignore patterns
 ```
 
 ## API Usage
